@@ -1,1 +1,3 @@
 .github/**
+config.bat
+node_modules
